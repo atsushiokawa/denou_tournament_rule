@@ -1,0 +1,2 @@
+# denou_tournament_rule
+電王トーナメントのルールの差分を取るためのHTML化
